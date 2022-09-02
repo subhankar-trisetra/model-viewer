@@ -1,0 +1,5 @@
+commit c3947c7004374b5a861b8a93fcda65a6c172a0d9
+Author: Emmett Lalish <elalish@google.com>
+Date:   Fri Sep 2 15:17:14 2022 -0700
+
+    add model-viewer.d.ts file and change paths (#3718)
